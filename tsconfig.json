@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "types": [
+      "@types/node",
+      "@types/google-apps-script"
+    ]
+  }
+}
